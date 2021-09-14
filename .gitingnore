@@ -1,0 +1,6 @@
+*.txt
+node_modules/
+*.psd
+*fig
+*.ai
+*pdf
